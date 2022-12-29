@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="20b78fa52f00651024daae6df699b66e" label="Test-Tbl" max_length="40" name="x_58872_needit_test_tbl" type="collection">
+        <element choice="3" choice_field="color" choice_table="sp_vlist_action" default="default" label="Type list" max_length="40" name="addedfield" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Default" sequence="0" value="default"/>
+                <element inactive_on_update="false" label="Primary" sequence="1" value="primary"/>
+                <element inactive_on_update="false" label="Success" sequence="2" value="success"/>
+                <element inactive_on_update="false" label="Info" sequence="3" value="info"/>
+                <element inactive_on_update="false" label="Warning" sequence="4" value="warning"/>
+                <element inactive_on_update="false" label="Danger" sequence="5" value="danger"/>
+            </choice>
+        </element>
+        <element default="Write sth..." label="Comments-lbl" max_length="100" name="comments" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_4" type="glide_date_time"/>
+    </element>
+</database>

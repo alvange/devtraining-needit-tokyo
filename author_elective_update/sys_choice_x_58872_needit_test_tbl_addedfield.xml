@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="addedfield" table="x_58872_needit_test_tbl" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>addedfield</element>
+            <name>x_58872_needit_test_tbl</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 18:35:09</sys_created_on>
+            <sys_name>addedfield</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_test_tbl_addedfield</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>addedfield</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Default</label>
+            <language>en</language>
+            <name>x_58872_needit_test_tbl</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 18:35:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>default</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>addedfield</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Primary</label>
+            <language>en</language>
+            <name>x_58872_needit_test_tbl</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 18:35:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>primary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>addedfield</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Success</label>
+            <language>en</language>
+            <name>x_58872_needit_test_tbl</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 18:35:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>success</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>addedfield</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Info</label>
+            <language>en</language>
+            <name>x_58872_needit_test_tbl</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 18:35:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>info</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>addedfield</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warning</label>
+            <language>en</language>
+            <name>x_58872_needit_test_tbl</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 18:35:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>warning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>addedfield</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Danger</label>
+            <language>en</language>
+            <name>x_58872_needit_test_tbl</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 18:35:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>danger</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
